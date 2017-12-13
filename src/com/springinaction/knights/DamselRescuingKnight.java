@@ -1,7 +1,5 @@
 package com.springinaction.knights;
 
-import com.springinaction.quest.RescueDamselQuest;
-
 public class DamselRescuingKnight implements Knight {
 	private RescueDamselQuest quest;
 	public DamselRescuingKnight() {

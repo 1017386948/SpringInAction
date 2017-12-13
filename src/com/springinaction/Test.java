@@ -1,7 +1,5 @@
 package com.springinaction;
 
-import java.io.PrintStream;
-
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.springinaction.knights.Knight;

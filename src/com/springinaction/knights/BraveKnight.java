@@ -1,7 +1,5 @@
 package com.springinaction.knights;
 
-import com.springinaction.quest.Quest;
-
 public class BraveKnight implements Knight {
 	private Quest quest;
 
