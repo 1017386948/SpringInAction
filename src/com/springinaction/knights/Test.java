@@ -1,8 +1,6 @@
-package com.springinaction;
+package com.springinaction.knights;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-
-import com.springinaction.knights.Knight;
 
 public class Test {
 	public static void main(String[] args) {
