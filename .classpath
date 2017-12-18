@@ -13,5 +13,7 @@
 	<classpathentry kind="lib" path="C:/Users/tianyr/.m2/repository/org/springframework/spring-aspects/spring-aspects-4.3.4.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/Users/tianyr/.m2/repository/org/aspectj/aspectjrt/1.8.13/aspectjrt-1.8.13.jar"/>
 	<classpathentry kind="lib" path="C:/Users/tianyr/.m2/repository/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/tianyr/.m2/repository/org/springframework/spring-test/4.3.12.RELEASE/spring-test-4.3.12.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

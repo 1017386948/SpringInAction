@@ -1,4 +1,4 @@
-package com.springinaction.knights;
+package knights;
 
 public class RescueDamselQuest implements Quest {
 
